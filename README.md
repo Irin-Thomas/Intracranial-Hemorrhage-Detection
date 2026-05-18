@@ -30,7 +30,13 @@ CQ500 Dataset
 - NumPy
 - Pandas
 - Matplotlib
+## Results
 
+### ROC Curve
+![ROC Curve]Multi-Layer Perceptron (MLP)  ROC.png)
+
+### Confusion Matrix
+![Confusion Matrix](Confusion Matrix.png)
 ## Repository Structure
 ```text
 Intracranial-Hemorrhage-Detection/
