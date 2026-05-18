@@ -11,11 +11,11 @@ The project compares multiple approaches including:
 - EfficientNetB0
 - ResNet50
 
-It also explores:
+The work also explores:
 - Transfer Learning
 - CLAHE preprocessing
-- Uncertainty Quantification
 - Monte Carlo Dropout
+- Uncertainty Quantification
 - Model Calibration
 
 ## Dataset
@@ -31,7 +31,7 @@ CQ500 Dataset
 - Pandas
 - Matplotlib
 
-## Project Structure
+## Repository Structure
 ```text
 Intracranial-Hemorrhage-Detection/
 │
