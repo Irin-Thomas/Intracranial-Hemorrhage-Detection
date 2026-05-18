@@ -33,10 +33,10 @@ CQ500 Dataset
 ## Results
 
 ### ROC Curve
-![ROC Curve]Multi-Layer Perceptron (MLP)  ROC.png)
+![ROC Curve](Multi-Layer Perceptron (MLP)  ROC.png)
 
 ### Confusion Matrix
-![Confusion Matrix](Confusion Matrix.png)
+![Confusion Matrix](Confusion matrix.png)
 ## Repository Structure
 ```text
 Intracranial-Hemorrhage-Detection/
